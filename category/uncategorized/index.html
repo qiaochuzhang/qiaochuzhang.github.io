@@ -30,6 +30,7 @@ img.emoji {
 <style id="wp-block-group-inline-css">.wp-block-group{box-sizing:border-box}
 .wp-block-group:where(.has-background){padding:1.25em 2.375em}</style>
 <style id="wp-block-page-list-inline-css">.wp-block-navigation .wp-block-page-list{display:flex;flex-direction:var(--navigation-layout-direction,initial);justify-content:var(--navigation-layout-justify,initial);align-items:var(--navigation-layout-align,initial);flex-wrap:var(--navigation-layout-wrap,wrap);background-color:inherit}.wp-block-navigation .wp-block-navigation-item{background-color:inherit}</style>
+<style id="wp-block-navigation-link-inline-css">.wp-block-navigation .wp-block-navigation-item__label{word-break:normal;overflow-wrap:break-word}</style>
 <link rel="stylesheet" id="wp-block-navigation-css" href="./../../wp-includes/blocks/navigation/style.min.css?ver=5.9.3" media="all">
 <style id="wp-block-template-part-inline-css">.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}</style>
 <style id="wp-block-post-title-inline-css">.wp-block-post-title a{display:inline-block}</style>
@@ -93,17 +94,10 @@ img.emoji {
 </div>
 
 
-<nav class="wp-container-3 is-responsive items-justified-right wp-block-navigation"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-2"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" role="img" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5"></rect><rect x="4" y="15" width="16" height="1.5"></rect></svg></button>
-			<div class="wp-block-navigation__responsive-container  " id="modal-2">
-				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
-					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" width="24" height="24" role="img" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
-						<div class="wp-block-navigation__responsive-container-content" id="modal-2-content">
-							<ul class="wp-block-page-list"><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="./../../sample-page/index.html">Sample Page</a></li></ul>
-						</div>
-					</div>
-				</div>
-			</div></nav>
+<nav class="wp-container-3 items-justified-right wp-block-navigation"><ul class="wp-block-page-list"><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="./../../sample-page/index.html">Sample Page</a></li></ul>
+<ul class="wp-block-page-list"><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="./../../sample-page/index.html">Sample Page</a></li></ul>
+<ul class="wp-block-page-list"><li class="wp-block-pages-list__item wp-block-navigation-item open-on-hover-click"><a class="wp-block-pages-list__item__link wp-block-navigation-item__content" href="./../../sample-page/index.html">Sample Page</a></li></ul>
+<ul class="wp-block-navigation__container"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content" href="http://google.com/" rel="google.com" title="google.com"><span class="wp-block-navigation-item__label">fff</span></a></li></ul></nav>
 </div>
 </div>
 </header>
