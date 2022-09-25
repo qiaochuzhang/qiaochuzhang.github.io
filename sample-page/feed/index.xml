@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: Sample Page	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	Comments on: Contact	</title>
+	<atom:link href="http://localhost/sample-page/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 12 May 2022 22:04:18 +0000</lastBuildDate>
+	<description>Personal Website</description>
+	<lastBuildDate>Sun, 25 Sep 2022 16:31:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>

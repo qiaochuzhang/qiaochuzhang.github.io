@@ -8,30 +8,30 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 12 May 2022 22:04:18 +0000</lastBuildDate>
+	<description>Personal Website</description>
+	<lastBuildDate>Sat, 17 Sep 2022 05:00:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
 		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Thu, 12 May 2022 22:04:18 +0000</pubDate>
+		<pubDate>Sat, 17 Sep 2022 05:00:35 +0000</pubDate>
 		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
 			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
 ]]></content:encoded>
 		
 			</item>

@@ -8,24 +8,24 @@
 	>
 
 <channel>
-	<title>qiaochuzhang</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<title>Qiaochu Zhang</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 12 May 2022 22:04:18 +0000</lastBuildDate>
+	<description>Personal Website</description>
+	<lastBuildDate>Sat, 17 Sep 2022 05:00:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Hello world!</title>
 		<link>./../hello-world/index.html</link>
 					<comments>./../hello-world/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[qiaochuzhang]]></dc:creator>
-		<pubDate>Thu, 12 May 2022 22:04:18 +0000</pubDate>
+		<pubDate>Sat, 17 Sep 2022 05:00:35 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../index.html?p=1</guid>
 
